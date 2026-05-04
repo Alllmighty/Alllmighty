@@ -7,7 +7,7 @@ I am a Quality Architect with a unique background: **7 years of clinical data au
 ---
 
 ## 🛡️ Current Focus: AI Safety & Semantic Defense
-My flagship project, **[MediTrust AI Firewall](https://github.com)**, implements a Hybrid Semantic Defense layer to solve the problem of AI hallucinations in high-stakes environments.
+My flagship project, **[MediTrust AI Firewall](https://github.com/Alllmighty/MediTrust-AI-Firewall)**, implements a Hybrid Semantic Defense layer to solve the problem of AI hallucinations in high-stakes environments.
 
 ## 🛠️ Tech Stack
 - **AI & Security:** Python, Llama-3.3 (Groq API), Semantic Auditing.
