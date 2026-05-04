@@ -1,6 +1,6 @@
 # Hi, I'm David Trots
 
-### AI Automation QA | Systems Architect | Data Integrity Specialist
+### Systems Architect | AI Trust Engineering | Data Integrity Specialist
 
 I am a Quality Architect with a unique background: **7 years of clinical data auditing in Oncology**. I build **"High-Trust Systems"** where data integrity and AI safety are the primary focus.
 
