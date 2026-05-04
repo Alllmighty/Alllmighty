@@ -17,4 +17,5 @@ My flagship project, **[MediTrust AI Firewall](https://github.com/Alllmighty/Med
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn:** [David Trots](https://www.linkedin.com/in/david-t-b62411302/) - **Location:** Haifa, Israel 🇮🇱
+- **LinkedIn:** [David Trots](https://www.linkedin.com/in/david-t-b62411302/)
+- **Location:** Haifa, Israel 🇮🇱
