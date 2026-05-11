@@ -8,8 +8,9 @@ I build high-trust systems where data integrity is a safety requirement. With **
 
 ## 🛡️ Featured Projects
 🚀 **[MediTrust AI Firewall](https://github.com/Alllmighty/MediTrust-AI-Firewall)** — Hybrid Semantic Safety layer for Medical LLMs (Python, Llama-3.3).
-
 🌐 [API Testing](https://github.com/Alllmighty/Phonebook-API-Testing-REST) | 📱 [Mobile Appium](https://github.com/Alllmighty/Phonebook-Mobile-Automation-Appium) | 💻 [Web UI Hybrid](https://github.com/Alllmighty/Phonebook-Web-UI-Framework-Hybrid)
+
+---
 
 ## 🛠️ Tech Stack
 - **AI & Trust:** Python, Llama-3.3 (Groq API), Semantic Guardrails, Prompt Engineering.
