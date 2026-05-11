@@ -1,15 +1,17 @@
 # Hi, I'm David Trots
 
-### Systems Architect | AI Trust Engineering | Data Integrity | Ex-Oncology Lead Auditor
+### Systems Architect | AI Trust Engineering | Data Integrity Expert
 
-I am a Quality Architect with a unique background: **7 years of clinical data auditing in Oncology**. I build **"High-Trust Systems"** where data integrity and AI safety are the primary focus.
+I build high-trust systems where data integrity is a safety requirement. With **7 years of lead auditing in Oncology**, I transition clinical precision into AI Safety and Quality Engineering.
 
 ---
 
-## 🛡️ Current Focus: AI Safety & Semantic Defense
-My flagship project, **[MediTrust AI Firewall](https://github.com/Alllmighty/MediTrust-AI-Firewall)**, implements a Hybrid Semantic Defense layer to solve the problem of AI hallucinations in high-stakes environments.
+## 🛡️ Featured Projects
+🚀 **[MediTrust AI Firewall](https://github.com/Alllmighty/MediTrust-AI-Firewall)** — Hybrid Semantic Safety layer for Medical LLMs (Python, Llama-3.3).
+🌐 [API Testing](https://github.com/Alllmighty/Phonebook-API-Testing-REST) | 📱 [Mobile Appium](https://github.com/Alllmighty/Phonebook-Mobile-Automation-Appium) | 💻 [Web UI Hybrid](https://github.com/Alllmighty/Phonebook-Web-UI-Framework-Hybrid)
 
 ## 🛠️ Tech Stack
-- **AI & Security:** Python, Llama-3.3 (Groq API), Semantic Auditing.
-- **Web & API:** Java, Selenium (Hybrid/Reflection API), RestAssured (Data Integrity).
-- **Mobile:** Appium (Advanced TouchActions & Recursive Scrolling).
+- **AI & Trust:** Python, Llama-3.3 (Groq API), Semantic Guardrails, Prompt Engineering.
+- **Automation:** Java, Selenium (Reflection API), Appium (Smart Scrolling), RestAssured.
+- **Analysis:** System Characterization, Clinical Data Auditing, ERP (1C) Integrity.
+[LinkedIn](https://www.linkedin.com/in/david-t-b62411302/) | Haifa, Israel 🇮🇱
