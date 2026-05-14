@@ -1,6 +1,6 @@
 # Hi, I'm David Trots
 
-### Systems Architect | AI Trust Engineering | Data Integrity Expert
+### Systems Architect | AI Trust Engineering | Data Integrity Specialist
 
 I build **high-trust systems** where data integrity is a safety requirement. With **7 years of lead auditing in Oncology**, I transition clinical precision into AI Safety and Quality Engineering.
 
